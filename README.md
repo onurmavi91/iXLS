@@ -1,7 +1,7 @@
 # iXLS
 is an Excel-based tool for creating XLS forms.
 
-Here are set of tutorials where you can preview then online and download the xls files!
+Here is a set of tutorials where you can live preview and and download the xls files!
 
 ---------------------------------------------
 
