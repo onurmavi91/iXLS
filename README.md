@@ -138,4 +138,19 @@ preview: https://ee.kobotoolbox.org/x/#YTmm
 
 xls file: https://goo.gl/hV2UG5
 
+---------------------------------------------
+
+**_18_Simple_Table**
+
+preview: https://ee.kobotoolbox.org/x/#Y6LB
+
+xls file: https://goo.gl/T8rsWy
+
+---------------------------------------------
+
+**_19_Simple_Table**
+
+preview: https://ee.kobotoolbox.org/x/#Y6LT
+
+xls file: https://goo.gl/F1csRN
 
