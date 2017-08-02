@@ -148,7 +148,7 @@ xls file: https://goo.gl/T8rsWy
 
 ---------------------------------------------
 
-**_19_Simple_Table**
+**_19_Extendable_Table**
 
 preview: https://ee.kobotoolbox.org/x/#Y6LT
 
